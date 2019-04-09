@@ -27,6 +27,6 @@ class Triangle
   class TriangleError < StandardError
   end
 
-#puts Triangle.new(2,3,4).kind
+
 
 end
